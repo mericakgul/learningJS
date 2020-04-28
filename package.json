@@ -1,0 +1,22 @@
+{
+  "name": "learningjs",
+  "version": "1.0.0",
+  "description": "Henk is the best even though he is such a SLUT!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mericakgul/learningJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mericakgul/learningJS/issues"
+  },
+  "homepage": "https://github.com/mericakgul/learningJS#readme",
+  "dependencies": {
+    "date-fns": "^2.12.0"
+  }
+}
